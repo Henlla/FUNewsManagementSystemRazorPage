@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace FUNewsManagementSystem.Pages
+namespace FUNewsManagementSystem.Pages.Home
 {
     public class PrivacyModel : PageModel
     {

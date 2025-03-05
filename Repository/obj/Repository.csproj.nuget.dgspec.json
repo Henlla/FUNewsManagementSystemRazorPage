@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FPT\\semester_7\\PRN222\\Assignment2\\Repository\\Repository.csproj": {}
+    "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "E:\\FPT\\semester_7\\PRN222\\Assignment2\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\BusinessObjects\\BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\phamk\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\BusinessObjects\\obj\\",
+        "projectPath": "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\trinh\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\phamk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -91,20 +92,20 @@
         }
       }
     },
-    "E:\\FPT\\semester_7\\PRN222\\Assignment2\\Repository\\Repository.csproj": {
+    "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\phamk\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\Repository\\obj\\",
+        "projectPath": "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\trinh\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\phamk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,14 +114,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\FPT\\semester_7\\PRN222\\Assignment2\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\Learning\\PRN222\\Code\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystemRazorPage\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
