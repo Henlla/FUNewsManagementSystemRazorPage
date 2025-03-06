@@ -24,7 +24,7 @@ namespace Service.Services
         public async Task DeleteAccountAsync(short id)
         {
             await _unitOfWork.SystemAccountRepository.DeleteAccountAsync(id);
-        }
+        }   
 
         public async Task<SystemAccount?> GetAccountByIdAsync(short id)
         {
