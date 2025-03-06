@@ -8061,23 +8061,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\phamk\\.nuget\\packages\\": {},
+    "C:\\Users\\dungp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\FUNewsManagementSystem\\FUNewsManagementSystem.csproj",
+      "projectUniqueName": "E:\\Semester07\\PRN222\\New folder\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystem\\FUNewsManagementSystem.csproj",
       "projectName": "FUNewsManagementSystem",
-      "projectPath": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\FUNewsManagementSystem\\FUNewsManagementSystem.csproj",
-      "packagesPath": "C:\\Users\\phamk\\.nuget\\packages\\",
-      "outputPath": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\FUNewsManagementSystem\\obj\\",
+      "projectPath": "E:\\Semester07\\PRN222\\New folder\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystem\\FUNewsManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\dungp\\.nuget\\packages\\",
+      "outputPath": "E:\\Semester07\\PRN222\\New folder\\FUNewsManagementSystemRazorPage\\FUNewsManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\phamk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dungp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8086,14 +8086,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\FPT\\semester_7\\PRN222\\Assignment2\\Service\\Service.csproj": {
-              "projectPath": "E:\\FPT\\semester_7\\PRN222\\Assignment2\\Service\\Service.csproj"
+            "E:\\Semester07\\PRN222\\New folder\\FUNewsManagementSystemRazorPage\\Service\\Service.csproj": {
+              "projectPath": "E:\\Semester07\\PRN222\\New folder\\FUNewsManagementSystemRazorPage\\Service\\Service.csproj"
             }
           }
         }
@@ -8144,7 +8145,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
